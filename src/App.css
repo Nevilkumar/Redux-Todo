@@ -145,6 +145,7 @@ input:focus {
   justify-content: space-between;
   align-items: center;
   cursor: pointer;
+  transition: all 250ms ease-out;
 }
 
 .eachItem:hover {
